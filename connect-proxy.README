@@ -1,0 +1,63 @@
+<PKG>
+------------------------------------------
+
+Establish TCP connection using SOCKS4/5 or HTTP tunnel
+
+Connect-proxy is a simple relaying command to make tunnel TCP
+connection via SOCKS or HTTPS proxies. It is mainly intended to be
+used as proxy command of OpenSSH.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://packages.debian.org/sid/connect-proxy
+  http://zippo.taiyo.co.jp/~gotoh/ssh/connect.html (no longer)
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Shun-ichi GOTO <gotoh@taiyo.co.jp> (probably no longer)
+  Bugs:
+
+License:
+  GPL-2+
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack <PKG>-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./<PKG>*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version <VER>-<REL> -----
+- Initial release YYYY-MM-DD Firstname Lastname
+
+Cygwin port maintained by: Firstname Lastname <Your email here>
+Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later
