@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N -- Establish TCP connection using SOCKS4/5 or HTTP tunnel
+Subject: New package: connect-proxy 1.101-1 -- Establish TCP connection using SOCKS4/5 or HTTP tunnel
 --text follows this line--
 
 PACKAGE DESCRIPTION
