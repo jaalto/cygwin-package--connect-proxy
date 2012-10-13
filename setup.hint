@@ -1,6 +1,6 @@
-sdesc: "Establish TCP connection using SOCKS4/5 or HTTP tunnel"
-ldesc: "A simple relaying command to make tunnel TCP
-connection via SOCKS or HTTPS proxies. It is mainly intended to be
-used as proxy command of OpenSSH."
+sdesc: "Establish TCP connection tunnel HTTP(S)"
+ldesc: "A simple relaying command to make tunnel TCP connection via SOCKS or
+HTTPS proxies. It is mainly intended to be used as proxy command of
+OpenSSH; to tunnel SSH Over HTTP(S)."
 category: Net
 requires: cygwin

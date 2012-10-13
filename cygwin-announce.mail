@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: New package: connect-proxy 1.101-1 -- Establish TCP connection using SOCKS4/5 or HTTP tunnel
+Subject: New package: connect-proxy 1.101-1 -- Establish TCP connection tunnel over HTTP(S)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -8,9 +8,9 @@ PACKAGE DESCRIPTION
 Homepage: http://packages.debian.org/sid/connect-proxy
 License : GPL-2+
 
-A simple relaying command to make tunnel TCP
-connection via SOCKS or HTTPS proxies. It is mainly intended to be
-used as proxy command of OpenSSH.
+A simple relaying command to make tunnel TCP connection via SOCKS or
+HTTPS proxies. It is mainly intended to be used as proxy command of
+OpenSSH; to tunnel SSH Over HTTP(S).
 
 CHANGES SINCE LAST RELEASE
 ==========================
